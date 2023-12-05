@@ -4,8 +4,8 @@ public class Nfactorial {
     public static int  factorial(int n){
         int m=1;
         for (int i=1;i<=n;i++){
-            int ans=i*m;
-            m=ans;
+
+            m=m*i;
         }
         return m;
 
