@@ -5,7 +5,7 @@ public class Nfactorial {
         int m=1;
         for (int i=1;i<=n;i++){
 
-            m=m*i;
+            m *= i;
         }
         return m;
 
