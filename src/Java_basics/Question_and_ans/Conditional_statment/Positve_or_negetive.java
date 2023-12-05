@@ -1,4 +1,4 @@
-package Question_and_ans.Conditional_statment;
+package Java_basics.Question_and_ans.Conditional_statment;
 
 import java.util.Scanner;
 

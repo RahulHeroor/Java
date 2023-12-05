@@ -1,4 +1,4 @@
-package Loops;
+package Java_basics.Loops;
 
 public class Nuber_1_10 {
     public static void main(String[] args) {

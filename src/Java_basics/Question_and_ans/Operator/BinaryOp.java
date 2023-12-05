@@ -1,4 +1,4 @@
-package Question_and_ans.Operator;
+package Java_basics.Question_and_ans.Operator;
 
 import java.util.Scanner;
 

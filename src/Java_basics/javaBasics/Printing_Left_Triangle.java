@@ -1,4 +1,4 @@
-package javaBasics;
+package Java_basics.javaBasics;
 
 public class Printing_Left_Triangle
 

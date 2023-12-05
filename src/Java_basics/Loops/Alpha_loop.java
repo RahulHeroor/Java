@@ -1,4 +1,4 @@
-package Loops;
+package Java_basics.Loops;
 
 public class Alpha_loop {
     public static void main(String[] args) {

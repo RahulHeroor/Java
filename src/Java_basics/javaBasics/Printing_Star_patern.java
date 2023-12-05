@@ -1,4 +1,4 @@
-package javaBasics;
+package Java_basics.javaBasics;
 
 public class Printing_Star_patern {
     public static void main(String[] args) {

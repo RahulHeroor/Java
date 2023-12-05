@@ -1,4 +1,4 @@
-package Conditional;
+package Java_basics.Conditional;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

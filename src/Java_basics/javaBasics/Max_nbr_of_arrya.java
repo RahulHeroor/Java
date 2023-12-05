@@ -1,4 +1,4 @@
-package javaBasics;
+package Java_basics.javaBasics;
 
 public class Max_nbr_of_arrya {
     public void max(){

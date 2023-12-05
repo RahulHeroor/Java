@@ -1,4 +1,4 @@
-package javaBasics;
+package Java_basics.javaBasics;
 
 public class Sumofnaturalnbrs {
     public static void main(String[] args) {

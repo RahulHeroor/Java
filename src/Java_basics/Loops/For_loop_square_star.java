@@ -1,4 +1,4 @@
-package Loops;
+package Java_basics.Loops;
 
 public class For_loop_square_star {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Question_and_ans.javaBasics01;
+package Java_basics.Question_and_ans.javaBasics01;
 import java.util.Scanner;
 
 public class Avg_og_3nbr {

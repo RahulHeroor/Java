@@ -1,4 +1,4 @@
-package Conditional;
+package Java_basics.Conditional;
 import java.util.Scanner;
 public class Ifelse 
 {

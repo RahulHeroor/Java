@@ -1,4 +1,4 @@
-package Loops;
+package Java_basics.Loops;
 class Sirial_nbrs{
     public Sirial_nbrs(int n){
         for (int i=1;i<=n;i++){

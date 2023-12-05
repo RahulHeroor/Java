@@ -1,4 +1,4 @@
-package Conditional;
+package Java_basics.Conditional;
 
 public class Maxof2nbr {
     public static void main(String[] args) {

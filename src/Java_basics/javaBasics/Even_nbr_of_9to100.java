@@ -1,4 +1,4 @@
-package javaBasics;
+package Java_basics.javaBasics;
 
 public class Even_nbr_of_9to100 {
 
